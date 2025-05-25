@@ -10,12 +10,12 @@
 8)Bonus – Decision Boundary Match: Decision boundary plots mapped to classifirs.
 
 # Task 2: The Rise of the WeatherMind  
-Goal: Develop an LLM-powered agentic AI assistant using LangGraph and tool-enhanced reasoning.
-Levels Covered
-Core Activation: LangGraph + Gemini + Calculator Tool
-Senses of World: Addition of Fashion and Weather Tools using API calls
-Judgement and Memory: Implementing tool-routing logic and conversational memory
-Multi-Agent Evolution: Building a multi-agent interaction with task-specific roles
+1)Goal: Develop an LLM-powered agentic AI assistant using LangGraph and tool-enhanced reasoning.
+2)Levels Covered
+3)Core Activation: LangGraph + Gemini + Calculator Tool
+4)Senses of World: Addition of Fashion and Weather Tools using API calls
+5)Judgement and Memory: Implementing tool-routing logic and conversational memory
+6)Multi-Agent Evolution: Building a multi-agent interaction with task-specific roles
 
 # Documents
 Dataset for Task 1: https://drive.google.com/drive/folders/1RBkKBDC2HOH0_paOWMyyWdvQV82kX0SZ
